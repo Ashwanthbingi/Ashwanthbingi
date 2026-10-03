@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 352" width="1200" height="352" role="img" aria-label="Terminal session. whoami returns Ashwanth Bingi, Computer Science Engineering student. focus list: software engineering, backend development, artificial intelligence, cybersecurity. status: building, learning, iterating.">
+  <title>Terminal — whoami, focus, status</title>
+
+  <defs>
+    <style>
+      .mono { font-family: "SF Mono",ui-monospace,"JetBrains Mono","Cascadia Mono","DejaVu Sans Mono",Consolas,monospace; }
+      .ln { font-size: 14.5px; letter-spacing: 0.2px; }
+      .tt { font-size: 11px; letter-spacing: 1.1px; }
+
+      .tl { transform-box: fill-box; transform-origin: left center; }
+      @keyframes type { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      .k1 { animation: type .50s steps(22) .25s backwards; }
+      .k2 { animation: type .75s steps(36) .80s backwards; }
+      .k3 { animation: type .50s steps(22) 1.70s backwards; }
+      .k4 { animation: type .55s steps(26) 2.25s backwards; }
+      .k5 { animation: type .55s steps(26) 2.52s backwards; }
+      .k6 { animation: type .42s steps(18) 3.20s backwards; }
+      .k7 { animation: type .55s steps(26) 3.68s backwards; }
+
+      .cur { animation: blink 1.15s steps(1,end) 4.4s infinite; }
+      @keyframes blink { 0%,50% { opacity:1 } 50.01%,100% { opacity:0 } }
+
+      .live { animation: pulse 2.8s ease-in-out 4.4s infinite; }
+      @keyframes pulse { 0%,100% { opacity:1 } 50% { opacity:.35 } }
+
+      @media (prefers-reduced-motion: reduce) {
+        .k1,.k2,.k3,.k4,.k5,.k6,.k7,.cur,.live { animation: none; }
+      }
+    </style>
+
+    <clipPath id="win"><rect x="0" y="0" width="1200" height="352" rx="13"/></clipPath>
+    <clipPath id="l1"><rect class="tl k1" x="40" y="76"  width="1130" height="25"/></clipPath>
+    <clipPath id="l2"><rect class="tl k2" x="40" y="104" width="1130" height="25"/></clipPath>
+    <clipPath id="l3"><rect class="tl k3" x="40" y="146" width="1130" height="25"/></clipPath>
+    <clipPath id="l4"><rect class="tl k4" x="40" y="174" width="1130" height="25"/></clipPath>
+    <clipPath id="l5"><rect class="tl k5" x="40" y="200" width="1130" height="25"/></clipPath>
+    <clipPath id="l6"><rect class="tl k6" x="40" y="242" width="1130" height="25"/></clipPath>
+    <clipPath id="l7"><rect class="tl k7" x="40" y="270" width="1130" height="25"/></clipPath>
+
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1B20"/>
+      <stop offset="100%" stop-color="#121317"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".035"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect x="0" y="0" width="1200" height="352" fill="#08090B"/>
+    <rect x="0" y="38" width="1200" height="130" fill="url(#glow)"/>
+    <rect x="0" y="0" width="1200" height="38" fill="url(#bar)"/>
+    <rect x="0" y="37.5" width="1200" height="1" fill="#FFFFFF" fill-opacity=".07"/>
+
+    <circle cx="24" cy="19" r="6" fill="#FF5F57" fill-opacity=".86"/>
+    <circle cx="44" cy="19" r="6" fill="#FEBC2E" fill-opacity=".86"/>
+    <circle cx="64" cy="19" r="6" fill="#28C840" fill-opacity=".86"/>
+    <text class="mono tt" x="600" y="23" fill="#5A5C64" text-anchor="middle">ashwanth — zsh</text>
+
+    <g clip-path="url(#l1)">
+      <text class="mono ln" x="40" y="93"><tspan fill="#4C4E57">~</tspan><tspan dx="9" fill="#7A7D86">$</tspan><tspan dx="9" fill="#F0F1F4">whoami</tspan></text>
+    </g>
+    <g clip-path="url(#l2)">
+      <text class="mono ln" x="40" y="121" fill="#9499A3">Ashwanth Bingi — Computer Science Engineering student</text>
+    </g>
+
+    <g clip-path="url(#l3)">
+      <text class="mono ln" x="40" y="163"><tspan fill="#4C4E57">~</tspan><tspan dx="9" fill="#7A7D86">$</tspan><tspan dx="9" fill="#F0F1F4">focus</tspan><tspan dx="9" fill="#6B6E78">--list</tspan></text>
+    </g>
+    <g clip-path="url(#l4)">
+      <text class="mono ln" y="191" fill="#9499A3"><tspan x="76">software engineering</tspan><tspan x="372">artificial intelligence</tspan></text>
+    </g>
+    <g clip-path="url(#l5)">
+      <text class="mono ln" y="217" fill="#9499A3"><tspan x="76">backend development</tspan><tspan x="372">cybersecurity</tspan></text>
+    </g>
+
+    <g clip-path="url(#l6)">
+      <text class="mono ln" x="40" y="259"><tspan fill="#4C4E57">~</tspan><tspan dx="9" fill="#7A7D86">$</tspan><tspan dx="9" fill="#F0F1F4">status</tspan></text>
+    </g>
+    <g clip-path="url(#l7)">
+      <circle class="live" cx="80" cy="282" r="3.6" fill="#3FB950"/>
+      <text class="mono ln" y="287" fill="#9499A3"><tspan x="96">building</tspan><tspan x="200">learning</tspan><tspan x="304">iterating</tspan></text>
+    </g>
+
+    <text class="mono ln" x="40" y="321"><tspan fill="#4C4E57">~</tspan><tspan dx="9" fill="#7A7D86">$</tspan></text>
+    <rect class="cur" x="76" y="309" width="8.5" height="16" fill="#E8E9ED" fill-opacity=".85"/>
+
+    <rect x="0.5" y="0.5" width="1199" height="351" rx="12.5" fill="none" stroke="#FFFFFF" stroke-opacity=".09"/>
+  </g>
+</svg>

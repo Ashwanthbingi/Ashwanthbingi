@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="Career-Twin. Skill intelligence and career path modeling. Built with Java, Spring Boot, MySQL and REST APIs. Public repository.">
+  <title>Career-Twin</title>
+  <defs>
+    <style>
+      .sans { font-family: "SF Pro Display","Helvetica Neue","Segoe UI Variable Display","Segoe UI",Inter,system-ui,-apple-system,sans-serif; }
+      .mono { font-family: "SF Mono",ui-monospace,"JetBrains Mono","Cascadia Mono","DejaVu Sans Mono",Consolas,monospace; }
+      .nm { font-size: 24px; font-weight: 400; letter-spacing: -0.2px; }
+      .ds { font-size: 12.5px; letter-spacing: 0.4px; }
+      .tc { font-size: 11px; letter-spacing: 0.9px; }
+      .cp { font-size: 10px; letter-spacing: 0.8px; }
+      .mk { fill: none; stroke: #AEB6CC; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+      .mkf { fill: #AEB6CC; stroke: none; }
+    </style>
+    <clipPath id="c"><rect x="0" y="0" width="1000" height="190" rx="18"/></clipPath>
+    <radialGradient id="t" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5B74A8" stop-opacity=".17"/>
+      <stop offset="55%" stop-color="#3C4E73" stop-opacity=".055"/>
+      <stop offset="100%" stop-color="#1A2033" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".045"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect x="0" y="0" width="1000" height="190" fill="#0A0B0D"/>
+    <ellipse cx="865" cy="95" rx="300" ry="170" fill="url(#t)"/>
+    <rect x="0" y="0" width="1000" height="95" fill="url(#sh)"/>
+
+    <g transform="translate(868,95)" opacity=".52">
+      <circle class="mk" cx="-21" cy="0" r="38"/>
+      <circle class="mk" cx="21" cy="0" r="38"/>
+      <circle class="mkf" cx="-21" cy="0" r="3.2"/>
+      <circle class="mkf" cx="21" cy="0" r="3.2"/>
+      <circle class="mkf" cx="0" cy="-24" r="2.6"/>
+      <circle class="mkf" cx="0" cy="-8" r="2.6"/>
+      <circle class="mkf" cx="0" cy="8" r="2.6"/>
+      <circle class="mkf" cx="0" cy="24" r="2.6"/>
+      <path class="mk" d="M-21 0 L0 -24 M-21 0 L0 24 M21 0 L0 -24 M21 0 L0 24" stroke-opacity=".5"/>
+    </g>
+
+    <text class="sans nm" x="36" y="60" fill="#ECEDF0">Career-Twin</text>
+    <text class="mono ds" x="36" y="90" fill="#7A7D86">Skill intelligence and career path modeling</text>
+    <text class="mono tc" y="120" fill="#5C5E67"><tspan x="36">Java</tspan><tspan x="92">Spring Boot</tspan><tspan x="195">MySQL</tspan><tspan x="258">REST APIs</tspan></text>
+
+    <rect x="36" y="136" width="140" height="22" rx="6" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <text class="mono cp" x="48" y="151" fill="#8A8F98">Public repository</text>
+
+    <rect x="0.5" y="0.5" width="999" height="189" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  </g>
+</svg>

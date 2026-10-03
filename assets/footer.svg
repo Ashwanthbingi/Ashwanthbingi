@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Building. Learning. Iterating.">
+  <title>Building. Learning. Iterating.</title>
+
+  <defs>
+    <style>
+      .sans { font-family: "SF Pro Display","Helvetica Neue","Segoe UI Variable Display","Segoe UI",Inter,system-ui,-apple-system,sans-serif; }
+      .mono { font-family: "SF Mono",ui-monospace,"JetBrains Mono","Cascadia Mono","DejaVu Sans Mono",Consolas,monospace; }
+      .big  { font-size: 27px; font-weight: 300; letter-spacing: 3.2px; }
+      .sm   { font-size: 11px; letter-spacing: 1.8px; }
+
+      .horizon { animation: hz 11s ease-in-out infinite; transform-origin: 600px 190px; }
+      @keyframes hz { 0%,100% { opacity:.55; transform: scaleX(1); } 50% { opacity:1; transform: scaleX(1.22); } }
+
+      @media (prefers-reduced-motion: reduce) { .horizon { animation: none; } }
+    </style>
+
+    <clipPath id="fp"><rect x="0" y="0" width="1200" height="190" rx="26"/></clipPath>
+
+    <radialGradient id="hg" cx="50%" cy="100%" r="62%">
+      <stop offset="0%"   stop-color="#6679FF" stop-opacity=".22"/>
+      <stop offset="45%"  stop-color="#3A45A8" stop-opacity=".07"/>
+      <stop offset="100%" stop-color="#14183A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#FFFFFF" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#fp)">
+    <rect x="0" y="0" width="1200" height="190" fill="#050506"/>
+    <g class="horizon"><ellipse cx="600" cy="196" rx="560" ry="140" fill="url(#hg)"/></g>
+    <rect x="300" y="52" width="600" height="1" fill="url(#hair)"/>
+    <text class="sans big" x="600" y="110" fill="#D3D5DB" text-anchor="middle">Building. Learning. Iterating.</text>
+    <text class="mono sm"  x="600" y="146" fill="#4C4E57" text-anchor="middle">github.com/Ashwanthbingi</text>
+    <rect x="0.5" y="0.5" width="1199" height="189" rx="25.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="EdgeGuard. Context-aware intrusion detection from a single webcam. Built with Python, OpenCV, Edge AI and computer vision. Academic project.">
+  <title>EdgeGuard</title>
+  <defs>
+    <style>
+      .sans { font-family: "SF Pro Display","Helvetica Neue","Segoe UI Variable Display","Segoe UI",Inter,system-ui,-apple-system,sans-serif; }
+      .mono { font-family: "SF Mono",ui-monospace,"JetBrains Mono","Cascadia Mono","DejaVu Sans Mono",Consolas,monospace; }
+      .nm { font-size: 24px; font-weight: 400; letter-spacing: -0.2px; }
+      .ds { font-size: 12.5px; letter-spacing: 0.4px; }
+      .tc { font-size: 11px; letter-spacing: 0.9px; }
+      .cp { font-size: 10px; letter-spacing: 0.8px; }
+      .mk { fill: none; stroke: #B6AECC; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+    <clipPath id="c"><rect x="0" y="0" width="1000" height="190" rx="18"/></clipPath>
+    <radialGradient id="t" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6B5FA8" stop-opacity=".16"/>
+      <stop offset="55%" stop-color="#443B6E" stop-opacity=".055"/>
+      <stop offset="100%" stop-color="#1D1930" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".045"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect x="0" y="0" width="1000" height="190" fill="#0A0B0D"/>
+    <ellipse cx="865" cy="95" rx="300" ry="170" fill="url(#t)"/>
+    <rect x="0" y="0" width="1000" height="95" fill="url(#sh)"/>
+
+    <g transform="translate(868,98)" opacity=".6">
+      <path class="mk" d="M0 -50 L41 -32 v28 q0 31 -41 50 q-41 -19 -41 -50 v-28 Z"/>
+      <circle class="mk" cx="0" cy="-3" r="14"/>
+      <circle class="mk" cx="0" cy="-3" r="4.6"/>
+      <path class="mk" d="M-25 -21 v-7 h7 M25 -21 v-7 h-7 M-25 15 v7 h7 M25 15 v7 h-7" stroke-opacity=".68"/>
+    </g>
+
+    <text class="sans nm" x="36" y="60" fill="#ECEDF0">EdgeGuard</text>
+    <text class="mono ds" x="36" y="90" fill="#7A7D86">Context-aware detection from a single webcam</text>
+    <text class="mono tc" y="120" fill="#5C5E67"><tspan x="36">Python</tspan><tspan x="106">OpenCV</tspan><tspan x="176">Edge AI</tspan><tspan x="252">Computer Vision</tspan></text>
+
+    <rect x="36" y="136" width="133" height="22" rx="6" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <text class="mono cp" x="48" y="151" fill="#8A8F98">Academic project</text>
+
+    <rect x="0.5" y="0.5" width="999" height="189" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  </g>
+</svg>

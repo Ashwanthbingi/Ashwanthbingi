@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="In motion. Building: backend services in Java and Spring Boot, REST APIs and relational data models, applied AI side projects in Python. Learning: data structures and algorithms, machine learning fundamentals, system design. Practising: problem solving on LeetCode, security fundamentals, writing cleaner testable code.">
+  <title>Currently in motion</title>
+  <defs>
+    <style>
+      .sans { font-family: "SF Pro Display","Helvetica Neue","Segoe UI Variable Display","Segoe UI",Inter,system-ui,-apple-system,sans-serif; }
+      .mono { font-family: "SF Mono",ui-monospace,"JetBrains Mono","Cascadia Mono","DejaVu Sans Mono",Consolas,monospace; }
+      .hd { font-size: 13.5px; font-weight: 400; letter-spacing: 0.3px; }
+      .it { font-size: 10.5px; letter-spacing: 0.25px; }
+
+      /* one-shot left-anchored reveal, staggered across the three columns.
+         base state is the final state, so disabling motion loses nothing */
+      .rl { transform-box: fill-box; transform-origin: left center; }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      .r1 { animation: grow .62s cubic-bezier(.22,.61,.36,1) .30s backwards; }
+      .r2 { animation: grow .62s cubic-bezier(.22,.61,.36,1) .46s backwards; }
+      .r3 { animation: grow .62s cubic-bezier(.22,.61,.36,1) .62s backwards; }
+
+      @media (prefers-reduced-motion: reduce) {
+        .r1, .r2, .r3 { animation: none; }
+      }
+    </style>
+    <clipPath id="c"><rect x="0" y="0" width="1000" height="190" rx="18"/></clipPath>
+    <radialGradient id="amb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".045"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".042"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="vr" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity=".085"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8A8F98" stop-opacity=".52"/>
+      <stop offset="100%" stop-color="#8A8F98" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect x="0" y="0" width="1000" height="190" fill="#0A0B0D"/>
+    <ellipse cx="500" cy="30" rx="520" ry="150" fill="url(#amb)"/>
+    <rect x="0" y="0" width="1000" height="95" fill="url(#sh)"/>
+
+    <rect x="336" y="42" width="1" height="106" fill="url(#vr)"/>
+    <rect x="656" y="42" width="1" height="106" fill="url(#vr)"/>
+
+    <text class="sans hd" x="36" y="57" fill="#ECEDF0">Building</text>
+    <rect class="rl r1" x="36" y="69" width="54" height="1" fill="url(#hr)"/>
+    <text class="mono it" y="95" fill="#7A7D86"><tspan x="36">Backend services in Java and Spring Boot</tspan><tspan x="36" dy="23">REST APIs and relational data models</tspan><tspan x="36" dy="23">Applied AI side projects in Python</tspan></text>
+
+    <text class="sans hd" x="356" y="57" fill="#ECEDF0">Learning</text>
+    <rect class="rl r2" x="356" y="69" width="54" height="1" fill="url(#hr)"/>
+    <text class="mono it" y="95" fill="#7A7D86"><tspan x="356">Data structures and algorithms</tspan><tspan x="356" dy="23">Machine learning fundamentals</tspan><tspan x="356" dy="23">System design</tspan></text>
+
+    <text class="sans hd" x="676" y="57" fill="#ECEDF0">Practising</text>
+    <rect class="rl r3" x="676" y="69" width="54" height="1" fill="url(#hr)"/>
+    <text class="mono it" y="95" fill="#7A7D86"><tspan x="676">Problem solving on LeetCode</tspan><tspan x="676" dy="23">Security fundamentals</tspan><tspan x="676" dy="23">Cleaner, testable code</tspan></text>
+
+    <rect x="0.5" y="0.5" width="999" height="189" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  </g>
+</svg>

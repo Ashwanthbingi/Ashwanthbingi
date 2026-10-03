@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 206" width="1000" height="206" role="img" aria-label="What I work with. Core: Java, Python, C, SQL. Backend: Spring Boot, REST APIs, MySQL. Tooling: Git, GitHub, VS Code, Postman, Linux. Exploring: AI and machine learning, LLM applications, computer vision, Edge AI, cybersecurity.">
+  <title>What I work with</title>
+  <defs>
+    <style>
+      .sans { font-family: "SF Pro Display","Helvetica Neue","Segoe UI Variable Display","Segoe UI",Inter,system-ui,-apple-system,sans-serif; }
+      .mono { font-family: "SF Mono",ui-monospace,"JetBrains Mono","Cascadia Mono","DejaVu Sans Mono",Consolas,monospace; }
+      .hd { font-size: 13.5px; font-weight: 400; letter-spacing: 0.3px; }
+      .it { font-size: 10.5px; letter-spacing: 0.25px; }
+
+      .rl { transform-box: fill-box; transform-origin: left center; }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      .r1 { animation: grow .58s cubic-bezier(.22,.61,.36,1) .26s backwards; }
+      .r2 { animation: grow .58s cubic-bezier(.22,.61,.36,1) .40s backwards; }
+      .r3 { animation: grow .58s cubic-bezier(.22,.61,.36,1) .54s backwards; }
+      .r4 { animation: grow .58s cubic-bezier(.22,.61,.36,1) .68s backwards; }
+
+      @media (prefers-reduced-motion: reduce) {
+        .r1, .r2, .r3, .r4 { animation: none; }
+      }
+    </style>
+    <clipPath id="c"><rect x="0" y="0" width="1000" height="206" rx="18"/></clipPath>
+    <radialGradient id="amb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".045"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".042"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="vr" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity=".085"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8A8F98" stop-opacity=".52"/>
+      <stop offset="100%" stop-color="#8A8F98" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect x="0" y="0" width="1000" height="206" fill="#0A0B0D"/>
+    <ellipse cx="500" cy="32" rx="520" ry="163" fill="url(#amb)"/>
+    <rect x="0" y="0" width="1000" height="100" fill="url(#sh)"/>
+
+    <rect x="256" y="34" width="1" height="152" fill="url(#vr)"/>
+    <rect x="492" y="34" width="1" height="152" fill="url(#vr)"/>
+    <rect x="728" y="34" width="1" height="152" fill="url(#vr)"/>
+
+    <text class="sans hd" x="36" y="50" fill="#ECEDF0">Core</text>
+    <rect class="rl r1" x="36" y="62" width="48" height="1" fill="url(#hr)"/>
+    <text class="mono it" y="88" fill="#7A7D86"><tspan x="36">Java</tspan><tspan x="36" dy="21">Python</tspan><tspan x="36" dy="21">C</tspan><tspan x="36" dy="21">SQL</tspan></text>
+
+    <text class="sans hd" x="272" y="50" fill="#ECEDF0">Backend</text>
+    <rect class="rl r2" x="272" y="62" width="48" height="1" fill="url(#hr)"/>
+    <text class="mono it" y="88" fill="#7A7D86"><tspan x="272">Spring Boot</tspan><tspan x="272" dy="21">REST APIs</tspan><tspan x="272" dy="21">MySQL</tspan></text>
+
+    <text class="sans hd" x="508" y="50" fill="#ECEDF0">Tooling</text>
+    <rect class="rl r3" x="508" y="62" width="48" height="1" fill="url(#hr)"/>
+    <text class="mono it" y="88" fill="#7A7D86"><tspan x="508">Git</tspan><tspan x="508" dy="21">GitHub</tspan><tspan x="508" dy="21">VS Code</tspan><tspan x="508" dy="21">Postman</tspan><tspan x="508" dy="21">Linux</tspan></text>
+
+    <text class="sans hd" x="744" y="50" fill="#ECEDF0">Exploring</text>
+    <rect class="rl r4" x="744" y="62" width="48" height="1" fill="url(#hr)"/>
+    <text class="mono it" y="88" fill="#6B6E78"><tspan x="744">AI / ML</tspan><tspan x="744" dy="21">LLM applications</tspan><tspan x="744" dy="21">Computer vision</tspan><tspan x="744" dy="21">Edge AI</tspan><tspan x="744" dy="21">Cybersecurity</tspan></text>
+
+    <rect x="0.5" y="0.5" width="999" height="205" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  </g>
+</svg>

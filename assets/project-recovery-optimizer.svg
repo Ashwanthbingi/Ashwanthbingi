@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="Recovery Portfolio Optimizer. Budget allocation for payment recovery. Built with Python, optimization, analytics and machine learning. Project work.">
+  <title>Recovery Portfolio Optimizer</title>
+  <defs>
+    <style>
+      .sans { font-family: "SF Pro Display","Helvetica Neue","Segoe UI Variable Display","Segoe UI",Inter,system-ui,-apple-system,sans-serif; }
+      .mono { font-family: "SF Mono",ui-monospace,"JetBrains Mono","Cascadia Mono","DejaVu Sans Mono",Consolas,monospace; }
+      .nm { font-size: 24px; font-weight: 400; letter-spacing: -0.2px; }
+      .ds { font-size: 12.5px; letter-spacing: 0.4px; }
+      .tc { font-size: 11px; letter-spacing: 0.9px; }
+      .cp { font-size: 10px; letter-spacing: 0.8px; }
+      .mk { fill: none; stroke: #A7C3B3; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+      .bar { fill: #A7C3B3; fill-opacity: .28; }
+    </style>
+    <clipPath id="c"><rect x="0" y="0" width="1000" height="190" rx="18"/></clipPath>
+    <radialGradient id="t" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4E8C6A" stop-opacity=".16"/>
+      <stop offset="55%" stop-color="#2F5A45" stop-opacity=".055"/>
+      <stop offset="100%" stop-color="#15261D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".045"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect x="0" y="0" width="1000" height="190" fill="#0A0B0D"/>
+    <ellipse cx="865" cy="95" rx="300" ry="170" fill="url(#t)"/>
+    <rect x="0" y="0" width="1000" height="95" fill="url(#sh)"/>
+
+    <g transform="translate(868,98)" opacity=".66">
+      <rect class="bar" x="-54" y="14"  width="15" height="22" rx="2"/>
+      <rect class="bar" x="-32" y="-2"  width="15" height="38" rx="2"/>
+      <rect class="bar" x="-9"  y="-20" width="15" height="56" rx="2"/>
+      <rect class="bar" x="14"  y="-8"  width="15" height="44" rx="2"/>
+      <rect class="bar" x="37"  y="8"   width="15" height="28" rx="2"/>
+      <path class="mk" d="M-58 39 H56" stroke-opacity=".38"/>
+      <path class="mk" d="M-46 8 Q-24 -10 -1.5 -32 Q22 -16 46 2"/>
+      <circle cx="-1.5" cy="-32" r="4" fill="#A7C3B3"/>
+      <circle cx="-1.5" cy="-32" r="9.5" fill="none" stroke="#A7C3B3" stroke-width="1.3" stroke-opacity=".42"/>
+    </g>
+
+    <text class="sans nm" x="36" y="60" fill="#ECEDF0">Recovery Portfolio Optimizer</text>
+    <text class="mono ds" x="36" y="90" fill="#7A7D86">Budget allocation for payment recovery</text>
+    <text class="mono tc" y="120" fill="#5C5E67"><tspan x="36">Python</tspan><tspan x="106">Optimization</tspan><tspan x="215">Analytics</tspan><tspan x="304">Machine Learning</tspan></text>
+
+    <rect x="36" y="136" width="106" height="22" rx="6" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <text class="mono cp" x="48" y="151" fill="#8A8F98">Project work</text>
+
+    <rect x="0.5" y="0.5" width="999" height="189" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  </g>
+</svg>
