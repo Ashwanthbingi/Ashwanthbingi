@@ -18,13 +18,13 @@
 <a href="https://github.com/Ashwanthbingi"><img src="https://img.shields.io/badge/GitHub-0A0B0D?style=for-the-badge&logo=github&logoColor=ECEDF0&labelColor=0A0B0D" alt="GitHub"></a>
 &nbsp;
 <!-- REPLACE-LINKEDIN -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A0B0D?style=for-the-badge&logo=linkedin&logoColor=ECEDF0&labelColor=0A0B0D" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/bingi-gnaneswanth-30565b354/"><img src="https://img.shields.io/badge/LinkedIn-0A0B0D?style=for-the-badge&logo=linkedin&logoColor=ECEDF0&labelColor=0A0B0D" alt="LinkedIn"></a>
 &nbsp;
 <!-- REPLACE-PORTFOLIO -->
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0A0B0D?style=for-the-badge&labelColor=0A0B0D" alt="Portfolio"></a>
+<a href="https://ashwanthbingi.github.io/gnaneswanth-bingi.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0B0D?style=for-the-badge&labelColor=0A0B0D" alt="Portfolio"></a>
 &nbsp;
 <!-- REPLACE-RESUME -->
-<a href="#"><img src="https://img.shields.io/badge/Résumé-0A0B0D?style=for-the-badge&labelColor=0A0B0D" alt="Résumé"></a>
+<a href="https://drive.google.com/file/d/1BF_SdsAC6hp52LohP6L_V1hWApMFDEuz/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-0A0B0D?style=for-the-badge&labelColor=0A0B0D" alt="Résumé"></a>
 
 <br><br>
 
@@ -144,7 +144,7 @@ An Edge AI concept for context-aware intrusion detection that runs entirely on a
 <br><br>
 
 <!-- REPLACE-LEETCODE -->
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-0A0B0D?style=for-the-badge&logo=leetcode&logoColor=ECEDF0&labelColor=0A0B0D" alt="LeetCode profile"></a>
+<a href="https://leetcode.com/u/Bingi_Gnaneswanth/"><img src="https://img.shields.io/badge/LeetCode-0A0B0D?style=for-the-badge&logo=leetcode&logoColor=ECEDF0&labelColor=0A0B0D" alt="LeetCode profile"></a>
 
 <br><br>
 
