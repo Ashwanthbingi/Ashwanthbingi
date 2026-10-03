@@ -117,11 +117,7 @@ An Edge AI concept for context-aware intrusion detection that runs entirely on a
 
 <br><br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwanthbingi&theme=github-compact&hide_border=true&area=true"
-  alt="Ashwanth Bingi's GitHub activity graph"
-  width="100%"
-/>
+
 
 <br>
 
