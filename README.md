@@ -1,427 +1,163 @@
+<!--
+  ─────────────────────────────────────────────────────────────────────────────
+  Ashwanth Bingi — GitHub profile README
+  Repo must be named exactly: Ashwanthbingi/Ashwanthbingi
+  The assets/ folder must live in that same repo. See SETUP.md.
+
+  Four links need your real URLs. Search this file for REPLACE:
+    REPLACE-LINKEDIN   REPLACE-PORTFOLIO   REPLACE-RESUME   REPLACE-LEETCODE
+  ─────────────────────────────────────────────────────────────────────────────
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,50:0a0a0a,100:171717&text=ASHWANTH%20BINGI&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Engineer%20%2F%2F%20Builder%20%2F%2F%20Problem%20Solver&descSize=17&descAlignY=61&animation=fadeIn" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems.;Java+%2B+Python+%2B+Backend+%2B+AI.;Learning.+Building.+Breaking.+Improving." />
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/hero.svg" alt="Ashwanth Bingi — Computer Science Engineering. Developer, builder, problem solver." width="100%">
 
 <br><br>
 
-<a href="https://github.com/Ashwanthbingi">
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=000000" />
-</a>
+<a href="https://github.com/Ashwanthbingi"><img src="https://img.shields.io/badge/GitHub-0A0B0D?style=for-the-badge&logo=github&logoColor=ECEDF0&labelColor=0A0B0D" alt="GitHub"></a>
 &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=000000" />
-</a>
+<!-- REPLACE-LINKEDIN -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A0B0D?style=for-the-badge&logo=linkedin&logoColor=ECEDF0&labelColor=0A0B0D" alt="LinkedIn"></a>
 &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=vercel&logoColor=000000" />
-</a>
+<!-- REPLACE-PORTFOLIO -->
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0A0B0D?style=for-the-badge&labelColor=0A0B0D" alt="Portfolio"></a>
+&nbsp;
+<!-- REPLACE-RESUME -->
+<a href="#"><img src="https://img.shields.io/badge/Résumé-0A0B0D?style=for-the-badge&labelColor=0A0B0D" alt="Résumé"></a>
 
-</div>
+<br><br>
 
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/terminal.svg" alt="Terminal: whoami returns Ashwanth Bingi, Computer Science Engineering student. Focus: software engineering, backend development, artificial intelligence, cybersecurity. Status: building, learning, iterating." width="100%">
+
+<br><br><br>
+
+<h3>Building with intent</h3>
+
+<p><b>I like the part where an idea starts running.</b></p>
+
+<p>
+Most of my time goes to backend work — data models, APIs,
 <br>
+and the pieces nobody notices until they break.
+</p>
 
----
-
-<div align="center">
-
-### `01 / INTRO`
-
-</div>
-
-```text
-┌──(ashwanth㉿github)-[~/about]
-└─$ whoami
-
-Computer Science Engineering student
-focused on software engineering, backend development
-and intelligent systems.
-
-I like understanding how things work,
-building them from scratch,
-and turning ideas into working products.
-```
-
+<p>
+Java and Spring Boot are where I move fastest. Python is
 <br>
-
-<div align="center">
-
-`JAVA`   `PYTHON`   `SQL`   `SPRING BOOT`   `AI/ML`   `CYBERSECURITY`
-
-</div>
-
----
-
-<div align="center">
-
-### `02 / THE STACK`
-
-</div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,spring,html,css,js,react,git,github,linux,docker,vscode,postman&theme=dark&perline=8" />
+where I try things out. Algorithms, applied AI and security
+<br>
+are the directions I'm reading toward next.
 </p>
 
 <br>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### ⚙️ BUILD
-
-`Java`
-`Spring Boot`
-`REST APIs`
-`MySQL`
-`Git`
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠 EXPLORE
-
-`AI / ML`
-`LLM Applications`
-`Computer Vision`
-`Edge AI`
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔐 LEARN
-
-`Cybersecurity`
-`System Design`
-`DSA`
-`Software Engineering`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### `03 / SELECTED WORK`
-
-</div>
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/divider.svg" alt="" width="100%">
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🧬 Career-Twin
-
-**Smart Career Digital Twin**
-
-A platform designed to understand a user's skills, identify career gaps and generate a personalized development path.
-
-```text
-Java
-Spring Boot
-MySQL
-REST APIs
-AI
-```
-
-**Focus**
-
-`Skill Intelligence`
-`Career Matching`
-`Skill Gap Analysis`
-`Roadmaps`
+<h3>What I work with</h3>
 
 <br>
 
-<a href="https://github.com/Ashwanthbingi/Career-Twin">
-View repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💳 Recovery Optimizer
-
-**Payment Recovery Intelligence**
-
-A decision system for allocating limited recovery resources while optimizing recovered revenue.
-
-```text
-Python
-Optimization
-Analytics
-Machine Learning
-```
-
-**Focus**
-
-`Contextual Decisions`
-`Budget Allocation`
-`Recovery Strategy`
-`Data Analysis`
-
-<br>
-
-`Private / Project Work`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🛡️ EdgeGuard
-
-**Privacy-Preserving Edge AI**
-
-An Edge AI concept for context-aware intrusion detection using smart cameras.
-
-```text
-Python
-OpenCV
-Edge AI
-Computer Vision
-```
-
-**Focus**
-
-`Real-Time Detection`
-`Privacy`
-`Edge Processing`
-
-<br>
-
-`Research / Academic Project`
-
-</td>
-
-<td width="50%" valign="top">
-
-## ⚡ More in Progress
-
-I continuously experiment with new ideas around:
-
-```text
-AI systems
-Backend engineering
-Developer tools
-Cybersecurity
-Automation
-```
-
-Some projects are public.
-
-Some are still being built.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `04 / CURRENTLY`
-
-</div>
-
-```text
-                    2026
-                      │
-                      ▼
-        ┌─────────────────────────────┐
-        │                             │
-        │   ████████████████░░░  DSA  │
-        │   ██████████████░░░░░  Java │
-        │   █████████████░░░░░░  SQL  │
-        │   ████████████░░░░░░░  AI   │
-        │   ██████████░░░░░░░░░  Cyber│
-        │                             │
-        └─────────────────────────────┘
-```
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-**BUILDING**
-
-Backend systems
-Java applications
-AI-powered projects
-
-</td>
-
-<td align="center">
-
-**LEARNING**
-
-Data Structures
-Machine Learning
-Cybersecurity
-
-</td>
-
-<td align="center">
-
-**IMPROVING**
-
-Problem solving
-System design
-Software engineering
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `05 / GITHUB`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwanthbingi&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwanthbingi&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&langs_count=6" height="180"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,spring,mysql,git,github,vscode,postman,linux&theme=dark" alt="Java, Python, C, Spring Boot, MySQL, Git, GitHub, VS Code, Postman, Linux" height="40">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Ashwanthbingi&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=666666" />
-
-</div>
-
----
-
-<div align="center">
-
-### `06 / CONTRIBUTIONS`
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/stack.svg" alt="What I work with. Core: Java, Python, C, SQL. Backend: Spring Boot, REST APIs, MySQL. Tooling: Git, GitHub, VS Code, Postman, Linux. Exploring: AI and machine learning, LLM applications, computer vision, Edge AI, cybersecurity." width="100%">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwanthbingi&bg_color=00000000&color=8b949e&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/divider.svg" alt="" width="100%">
+
+<br>
+
+<h3>Selected work</h3>
+
+<br>
 
 </div>
 
----
+<a href="https://github.com/Ashwanthbingi/Career-Twin"><img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/project-career-twin.svg" alt="Career-Twin — skill intelligence and career path modeling. Java, Spring Boot, MySQL, REST APIs. Public repository." width="100%"></a>
+
+A platform that builds a working model of someone's skills, finds the gap between where they are and where they want to be, and turns that gap into a concrete development path instead of a list of suggestions.
+
+<code>Skill intelligence</code> <code>Career matching</code> <code>Gap analysis</code> <code>Roadmap generation</code>
+
+[github.com/Ashwanthbingi/Career-Twin](https://github.com/Ashwanthbingi/Career-Twin)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/project-recovery-optimizer.svg" alt="Recovery Portfolio Optimizer — budget allocation for payment recovery. Python, optimization, analytics, machine learning. Project work." width="100%">
+
+A decision system for the question every recovery team actually faces: given a fixed budget and far more accounts than anyone can chase, which ones do you work, in what order, and through which channel. It allocates limited effort toward the revenue most likely to come back.
+
+<code>Contextual decisions</code> <code>Budget allocation</code> <code>Recovery strategy</code> <code>Data analysis</code>
+
+<sub>Project work — no public repository.</sub>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/project-edgeguard.svg" alt="EdgeGuard — context-aware detection from a single webcam. Python, OpenCV, Edge AI, computer vision. Academic project." width="100%">
+
+An Edge AI concept for context-aware intrusion detection that runs entirely on a laptop and its built-in webcam — no cloud upload, no external sensors. Rather than flagging every person it sees, it weighs context: restricted zone, how long someone lingers, time of day, movement pattern.
+
+<code>Real-time detection</code> <code>On-device inference</code> <code>Privacy-preserving</code> <code>Context scoring</code>
+
+<sub>Academic project for an Edge AI course, at proposal and prototype stage — described here as designed, not as a finished product.</sub>
 
 <div align="center">
 
-### `07 / PROBLEM SOLVING`
+<br>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=leetcode&logoColor=000000" />
-</a>
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/divider.svg" alt="" width="100%">
+
+<br>
+
+<h3>Activity</h3>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ashwanthbingi&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=ECEDF0&text_color=8A8F98&icon_color=8A8F98&ring_color=E8E9ED&include_all_commits=true&count_private=true&rank_icon=github&border_radius=18" alt="GitHub statistics for Ashwanthbingi" height="172">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwanthbingi&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=ECEDF0&text_color=8A8F98&langs_count=6&border_radius=18" alt="Most used languages" height="172">
 
 <br><br>
 
-```text
-DSA isn't about memorizing solutions.
-It's about learning how to think.
-```
-
-</div>
-
----
-
-<div align="center">
-
-### `08 / BEYOND THE CODE`
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-🏗️
-
-<br>
-
-**BUILD**
-
-I enjoy turning ideas into working software.
-
-</td>
-
-<td align="center">
-
-🧠
-
-<br>
-
-**LEARN**
-
-I constantly explore technologies outside my comfort zone.
-
-</td>
-
-<td align="center">
-
-⚽
-
-<br>
-
-**LIFE**
-
-Football, fitness and everything that keeps me away from the screen.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### `09 / LET'S CONNECT`
-
-<br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" />
-</a>
-
-<a href="https://github.com/Ashwanthbingi">
-<img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logo=vercel&logoColor=000000" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=Ashwanthbingi&hide_border=true&background=0A0B0D&stroke=1F2126&ring=E8E9ED&fire=E8E9ED&currStreakNum=ECEDF0&currStreakLabel=8A8F98&sideNums=ECEDF0&sideLabels=8A8F98&dates=5C5E67&border_radius=18" alt="Contribution streak" height="178">
 
 <br><br>
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│     "Build something. Learn something.       │
-│              Repeat."                        │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwanthbingi&bg_color=0A0B0D&color=8A8F98&line=E8E9ED&point=FFFFFF&area=true&area_color=8A8F98&hide_border=true&radius=18&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:0a0a0a,100:050505&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/divider.svg" alt="" width="100%">
+
+<br>
+
+<h3>In motion</h3>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/in-motion.svg" alt="In motion. Building: backend services in Java and Spring Boot, REST APIs and relational data models, applied AI side projects in Python. Learning: data structures and algorithms, machine learning fundamentals, system design. Practising: problem solving on LeetCode, security fundamentals, writing cleaner testable code." width="100%">
+
+<br><br>
+
+<!-- REPLACE-LEETCODE -->
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-0A0B0D?style=for-the-badge&logo=leetcode&logoColor=ECEDF0&labelColor=0A0B0D" alt="LeetCode profile"></a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/divider.svg" alt="" width="100%">
+
+<br>
+
+<h3>Beyond the code</h3>
+
+<p><sub>Football, the gym, and a long list of half-built side projects I keep coming back to.</sub></p>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/footer.svg" alt="Building. Learning. Iterating. github.com/Ashwanthbingi" width="100%">
 
 </div>
