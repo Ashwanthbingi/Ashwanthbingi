@@ -1,12 +1,8 @@
 <!--
   ─────────────────────────────────────────────────────────────────────────────
   Ashwanth Bingi — GitHub profile README
-
-  Repo must be named exactly:  Ashwanthbingi/Ashwanthbingi   (public)
-  Keep this file at the repo root, with assets/ as a sibling folder:
-
-      README.md
-      assets/   ← all 9 .svg files, exact filenames, case-sensitive
+  Repo must be named exactly: Ashwanthbingi/Ashwanthbingi
+  The assets/ folder must live in that same repo. See SETUP.md.
 
   Four links need your real URLs. Search this file for REPLACE:
     REPLACE-LINKEDIN   REPLACE-PORTFOLIO   REPLACE-RESUME   REPLACE-LEETCODE
@@ -15,7 +11,7 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Ashwanth Bingi — Computer Science Engineering. Developer, builder, problem solver." width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/hero.svg" alt="Ashwanth Bingi — Computer Science Engineering. Developer, builder, problem solver." width="100%">
 
 <br><br>
 
@@ -32,7 +28,7 @@
 
 <br><br>
 
-<img src="./assets/terminal.svg" alt="Terminal: whoami returns Ashwanth Bingi, Computer Science Engineering student. Focus: software engineering, backend development, artificial intelligence, cybersecurity. Status: building, learning, iterating." width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/terminal.svg" alt="Terminal: whoami returns Ashwanth Bingi, Computer Science Engineering student. Focus: software engineering, backend development, artificial intelligence, cybersecurity. Status: building, learning, iterating." width="100%">
 
 <br><br><br>
 
@@ -56,7 +52,7 @@ are the directions I'm reading toward next.
 
 <br>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/divider.svg" alt="" width="100%">
 
 <br>
 
@@ -66,13 +62,13 @@ are the directions I'm reading toward next.
 
 <img src="https://skillicons.dev/icons?i=java,python,c,spring,mysql,git,github,vscode,postman,linux&theme=dark" alt="Java, Python, C, Spring Boot, MySQL, Git, GitHub, VS Code, Postman, Linux" height="40">
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/stack.svg" alt="What I work with. Core: Java, Python, C, SQL. Backend: Spring Boot, REST APIs, MySQL. Tooling: Git, GitHub, VS Code, Postman, Linux. Exploring: AI and machine learning, LLM applications, computer vision, Edge AI, cybersecurity." width="100%">
+
 <br>
 
-<img src="./assets/stack.svg" alt="What I work with. Core: Java, Python, C, SQL. Backend: Spring Boot, REST APIs, MySQL. Tooling: Git, GitHub, VS Code, Postman, Linux. Exploring: AI and machine learning, LLM applications, computer vision, Edge AI, cybersecurity." width="100%">
-
-<br>
-
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/divider.svg" alt="" width="100%">
 
 <br>
 
@@ -82,7 +78,7 @@ are the directions I'm reading toward next.
 
 </div>
 
-<a href="https://github.com/Ashwanthbingi/Career-Twin"><img src="./assets/project-career-twin.svg" alt="Career-Twin — skill intelligence and career path modeling. Java, Spring Boot, MySQL, REST APIs. Public repository." width="100%"></a>
+<a href="https://github.com/Ashwanthbingi/Career-Twin"><img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/project-career-twin.svg" alt="Career-Twin — skill intelligence and career path modeling. Java, Spring Boot, MySQL, REST APIs. Public repository." width="100%"></a>
 
 A platform that builds a working model of someone's skills, finds the gap between where they are and where they want to be, and turns that gap into a concrete development path instead of a list of suggestions.
 
@@ -92,7 +88,7 @@ A platform that builds a working model of someone's skills, finds the gap betwee
 
 <br>
 
-<img src="./assets/project-recovery-optimizer.svg" alt="Recovery Portfolio Optimizer — budget allocation for payment recovery. Python, optimization, analytics, machine learning. Project work." width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/project-recovery-optimizer.svg" alt="Recovery Portfolio Optimizer — budget allocation for payment recovery. Python, optimization, analytics, machine learning. Project work." width="100%">
 
 A decision system for the question every recovery team actually faces: given a fixed budget and far more accounts than anyone can chase, which ones do you work, in what order, and through which channel. It allocates limited effort toward the revenue most likely to come back.
 
@@ -102,7 +98,7 @@ A decision system for the question every recovery team actually faces: given a f
 
 <br>
 
-<img src="./assets/project-edgeguard.svg" alt="EdgeGuard — context-aware detection from a single webcam. Python, OpenCV, Edge AI, computer vision. Academic project." width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/project-edgeguard.svg" alt="EdgeGuard — context-aware detection from a single webcam. Python, OpenCV, Edge AI, computer vision. Academic project." width="100%">
 
 An Edge AI concept for context-aware intrusion detection that runs entirely on a laptop and its built-in webcam — no cloud upload, no external sensors. Rather than flagging every person it sees, it weighs context: restricted zone, how long someone lingers, time of day, movement pattern.
 
@@ -114,7 +110,7 @@ An Edge AI concept for context-aware intrusion detection that runs entirely on a
 
 <br>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/divider.svg" alt="" width="100%">
 
 <br>
 
@@ -125,17 +121,17 @@ An Edge AI concept for context-aware intrusion detection that runs entirely on a
 <img src="https://github-readme-stats.vercel.app/api?username=Ashwanthbingi&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=ECEDF0&text_color=8A8F98&icon_color=8A8F98&ring_color=E8E9ED&include_all_commits=true&count_private=true&rank_icon=github&border_radius=18" alt="GitHub statistics for Ashwanthbingi" height="172">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwanthbingi&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=ECEDF0&text_color=8A8F98&langs_count=6&border_radius=18" alt="Most used languages" height="172">
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=Ashwanthbingi&hide_border=true&background=0A0B0D&stroke=1F2126&ring=E8E9ED&fire=E8E9ED&currStreakNum=ECEDF0&currStreakLabel=8A8F98&sideNums=ECEDF0&sideLabels=8A8F98&dates=5C5E67&border_radius=18" alt="Contribution streak" height="178">
 
-<br>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwanthbingi&bg_color=0A0B0D&color=8A8F98&line=E8E9ED&point=FFFFFF&area=true&area_color=8A8F98&hide_border=true&radius=18&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%">
 
 <br>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/divider.svg" alt="" width="100%">
 
 <br>
 
@@ -143,7 +139,7 @@ An Edge AI concept for context-aware intrusion detection that runs entirely on a
 
 <br>
 
-<img src="./assets/in-motion.svg" alt="In motion. Building: backend services in Java and Spring Boot, REST APIs and relational data models, applied AI side projects in Python. Learning: data structures and algorithms, machine learning fundamentals, system design. Practising: problem solving on LeetCode, security fundamentals, writing cleaner testable code." width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/in-motion.svg" alt="In motion. Building: backend services in Java and Spring Boot, REST APIs and relational data models, applied AI side projects in Python. Learning: data structures and algorithms, machine learning fundamentals, system design. Practising: problem solving on LeetCode, security fundamentals, writing cleaner testable code." width="100%">
 
 <br><br>
 
@@ -152,7 +148,7 @@ An Edge AI concept for context-aware intrusion detection that runs entirely on a
 
 <br><br>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/divider.svg" alt="" width="100%">
 
 <br>
 
@@ -162,6 +158,6 @@ An Edge AI concept for context-aware intrusion detection that runs entirely on a
 
 <br><br>
 
-<img src="./assets/footer.svg" alt="Building. Learning. Iterating. github.com/Ashwanthbingi" width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/footer.svg" alt="Building. Learning. Iterating. github.com/Ashwanthbingi" width="100%">
 
 </div>
