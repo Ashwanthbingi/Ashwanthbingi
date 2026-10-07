@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="Raft Harmony. Distributed coordination under failure. Built with Go, implementing the Raft protocol, consensus and fault tolerance. Systems project.">
+  <title>Raft Harmony</title>
+  <defs>
+    <style>
+      .sans { font-family: "SF Pro Display","Helvetica Neue","Segoe UI Variable Display","Segoe UI",Inter,system-ui,-apple-system,sans-serif; }
+      .mono { font-family: "SF Mono",ui-monospace,"JetBrains Mono","Cascadia Mono","DejaVu Sans Mono",Consolas,monospace; }
+      .nm { font-size: 24px; font-weight: 400; letter-spacing: -0.2px; }
+      .ds { font-size: 12.5px; letter-spacing: 0.4px; }
+      .tc { font-size: 11px; letter-spacing: 0.9px; }
+      .cp { font-size: 10px; letter-spacing: 0.8px; }
+      .mk { fill: none; stroke: #AEB6CC; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+      .mkf { fill: #AEB6CC; stroke: none; }
+      .hair { stroke-width: 1.1; }
+      .thin { stroke-width: 1.3; }
+    </style>
+    <clipPath id="c"><rect x="0" y="0" width="1000" height="190" rx="18"/></clipPath>
+    <radialGradient id="t" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5B74A8" stop-opacity=".17"/>
+      <stop offset="55%" stop-color="#3C4E73" stop-opacity=".055"/>
+      <stop offset="100%" stop-color="#1A2033" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".045"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect x="0" y="0" width="1000" height="190" fill="#0A0B0D"/>
+    <ellipse cx="865" cy="95" rx="300" ry="170" fill="url(#t)"/>
+    <rect x="0" y="0" width="1000" height="95" fill="url(#sh)"/>
+
+    <g transform="translate(868,95)" opacity=".58">
+      <circle class="mk hair" cx="0" cy="0" r="54" stroke-opacity=".24"/>
+      <circle class="mk hair" cx="0" cy="0" r="36" stroke-opacity=".30" stroke-dasharray="1 7"/>
+      <path class="mk hair" d="M0 -54 L51.4 -16.7 L31.7 43.7 L-31.7 43.7 L-51.4 -16.7 Z" stroke-opacity=".20"/>
+      <path class="mk thin" d="M0 -20 V-47 M19 -6.2 L44.7 -14.5 M11.8 16.2 L27.6 38 M-11.8 16.2 L-27.6 38 M-19 -6.2 L-44.7 -14.5" stroke-opacity=".44"/>
+      <circle class="mk hair" cx="0" cy="0" r="18" stroke-opacity=".22"/>
+      <circle class="mk thin" cx="0" cy="0" r="11" stroke-opacity=".52"/>
+      <circle class="mkf" cx="0" cy="0" r="4.2"/>
+      <circle class="mkf" cx="0" cy="-54" r="3"/>
+      <circle class="mkf" cx="51.4" cy="-16.7" r="3"/>
+      <circle class="mkf" cx="31.7" cy="43.7" r="3"/>
+      <circle class="mkf" cx="-31.7" cy="43.7" r="3"/>
+      <circle class="mkf" cx="-51.4" cy="-16.7" r="3"/>
+      <circle class="mk thin" cx="51.4" cy="-16.7" r="7.5" stroke-opacity=".46"/>
+      <circle class="mk thin" cx="-51.4" cy="-16.7" r="7.5" stroke-opacity=".46"/>
+    </g>
+
+    <text class="sans nm" x="36" y="60" fill="#ECEDF0">Raft Harmony</text>
+    <text class="mono ds" x="36" y="90" fill="#7A7D86">Distributed coordination under failure</text>
+    <text class="mono tc" y="120" fill="#5C5E67"><tspan x="36">Go</tspan><tspan x="78">Raft</tspan><tspan x="134">Consensus</tspan><tspan x="225">Fault Tolerance</tspan></text>
+
+    <rect x="36" y="136" width="126" height="22" rx="6" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <text class="mono cp" x="48" y="151" fill="#8A8F98">Systems project</text>
+
+    <rect x="0.5" y="0.5" width="999" height="189" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  </g>
+</svg>

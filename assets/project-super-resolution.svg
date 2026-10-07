@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="Task-Driven Super-Resolution. Beyond perceptual quality for diagnostic X-rays. Python, deep learning, super-resolution, chest X-ray. Research project.">
+  <title>Task-Driven Super-Resolution</title>
+  <defs>
+    <style>
+      .sans { font-family: "SF Pro Display","Helvetica Neue","Segoe UI Variable Display","Segoe UI",Inter,system-ui,-apple-system,sans-serif; }
+      .mono { font-family: "SF Mono",ui-monospace,"JetBrains Mono","Cascadia Mono","DejaVu Sans Mono",Consolas,monospace; }
+      .nm { font-size: 24px; font-weight: 400; letter-spacing: -0.2px; }
+      .ds { font-size: 12.5px; letter-spacing: 0.4px; }
+      .tc { font-size: 11px; letter-spacing: 0.9px; }
+      .cp { font-size: 10px; letter-spacing: 0.8px; }
+      .mk { fill: none; stroke: #B6AECC; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+      .px { fill: #B6AECC; fill-opacity: .07; stroke: none; }
+      .hair { stroke-width: 1.1; }
+      .thin { stroke-width: 1.3; }
+    </style>
+    <clipPath id="c"><rect x="0" y="0" width="1000" height="190" rx="18"/></clipPath>
+    <clipPath id="fr"><rect x="-54" y="-54" width="108" height="108" rx="9"/></clipPath>
+    <radialGradient id="t" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6B5FA8" stop-opacity=".16"/>
+      <stop offset="55%" stop-color="#443B6E" stop-opacity=".055"/>
+      <stop offset="100%" stop-color="#1D1930" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".045"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect x="0" y="0" width="1000" height="190" fill="#0A0B0D"/>
+    <ellipse cx="865" cy="95" rx="300" ry="170" fill="url(#t)"/>
+    <rect x="0" y="0" width="1000" height="95" fill="url(#sh)"/>
+
+    <g transform="translate(868,95)" opacity=".62">
+      <g clip-path="url(#fr)">
+        <rect class="px" x="-54" y="-54" width="27" height="27"/>
+        <rect class="px" x="-27" y="27" width="27" height="27"/>
+        <path class="mk hair" d="M-27 -54 V54 M-54 -27 H0 M-54 0 H0 M-54 27 H0" stroke-opacity=".14"/>
+        <path class="mk hair" d="M13.5 -54 V54 M27 -54 V54 M40.5 -54 V54 M0 -40.5 H54 M0 -27 H54 M0 -13.5 H54 M0 0 H54 M0 13.5 H54 M0 27 H54 M0 40.5 H54" stroke-opacity=".085"/>
+      </g>
+      <rect class="mk thin" x="-54" y="-54" width="108" height="108" rx="9" stroke-opacity=".30"/>
+      <path class="mk thin" d="M0 -38 V36" stroke-opacity=".26"/>
+      <path class="mk hair" d="M-5 -28 H5 M-5 -15 H5 M-5 -2 H5 M-5 11 H5 M-5 24 H5" stroke-opacity=".22"/>
+      <path class="mk" d="M-9 -33 C-33 -29 -43 -2 -31 22" stroke-opacity=".54"/>
+      <path class="mk" d="M9 -33 C33 -29 43 -2 31 22" stroke-opacity=".54"/>
+      <path class="mk" d="M12 -12 V-18 H18 M46 -12 V-18 H40 M12 10 V16 H18 M46 10 V16 H40" stroke-opacity=".60"/>
+    </g>
+
+    <text class="sans nm" x="36" y="60" fill="#ECEDF0">Task-Driven Super-Resolution</text>
+    <text class="mono ds" x="36" y="90" fill="#7A7D86">Beyond perceptual quality for diagnostic X-rays</text>
+    <text class="mono tc" y="120" fill="#5C5E67"><tspan x="36">Python</tspan><tspan x="106">Deep Learning</tspan><tspan x="225">Super-Resolution</tspan><tspan x="365">Chest X-ray</tspan></text>
+
+    <rect x="36" y="136" width="133" height="22" rx="6" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <text class="mono cp" x="48" y="151" fill="#8A8F98">Research project</text>
+
+    <rect x="0.5" y="0.5" width="999" height="189" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  </g>
+</svg>

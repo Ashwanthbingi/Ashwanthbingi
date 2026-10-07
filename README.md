@@ -4,8 +4,9 @@
   Repo must be named exactly: Ashwanthbingi/Ashwanthbingi
   The assets/ folder must live in that same repo. See SETUP.md.
 
-  Four links need your real URLs. Search this file for REPLACE:
+  Links that need your real URLs. Search this file for REPLACE:
     REPLACE-LINKEDIN   REPLACE-PORTFOLIO   REPLACE-RESUME   REPLACE-LEETCODE
+    REPLACE-RAFT-URL   REPLACE-SUPERRES-URL
   ─────────────────────────────────────────────────────────────────────────────
 -->
 
@@ -78,13 +79,14 @@ are the directions I'm reading toward next.
 
 </div>
 
-<a href="https://github.com/Ashwanthbingi/Career-Twin"><img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/project-career-twin.svg" alt="Career-Twin — skill intelligence and career path modeling. Java, Spring Boot, MySQL, REST APIs. Public repository." width="100%"></a>
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/project-raft-harmony.svg" alt="Raft Harmony — distributed coordination under failure. Go, Raft, consensus, fault tolerance. Systems project." width="100%">
 
-A platform that builds a working model of someone's skills, finds the gap between where they are and where they want to be, and turns that gap into a concrete development path instead of a list of suggestions.
+A Raft consensus implementation in Go — the layer that keeps a cluster of nodes agreeing on one ordered log while individual members crash, restart and fall behind. The happy path was never the hard part. The work is in what the cluster does when a leader disappears mid-write and the surviving nodes disagree about what was actually committed.
 
-<code>Skill intelligence</code> <code>Career matching</code> <code>Gap analysis</code> <code>Roadmap generation</code>
+<code>Leader election</code> <code>Log replication</code> <code>Consensus safety</code> <code>Fault tolerance</code>
 
-[github.com/Ashwanthbingi/Career-Twin](https://github.com/Ashwanthbingi/Career-Twin)
+<!-- REPLACE-RAFT-URL — paste the repository link here, e.g. [github.com/Ashwanthbingi/raft-harmony](https://github.com/Ashwanthbingi/raft-harmony) -->
+<sub>Repository link pending.</sub>
 
 <br>
 
@@ -98,13 +100,14 @@ A decision system for the question every recovery team actually faces: given a f
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/project-edgeguard.svg" alt="EdgeGuard — context-aware detection from a single webcam. Python, OpenCV, Edge AI, computer vision. Academic project." width="100%">
+<img src="https://raw.githubusercontent.com/Ashwanthbingi/Ashwanthbingi/HEAD/assets/project-super-resolution.svg" alt="Task-Driven Super-Resolution — beyond perceptual quality for diagnostic X-rays. Python, deep learning, super-resolution, chest X-ray. Research project." width="100%">
 
-An Edge AI concept for context-aware intrusion detection that runs entirely on a laptop and its built-in webcam — no cloud upload, no external sensors. Rather than flagging every person it sees, it weighs context: restricted zone, how long someone lingers, time of day, movement pattern.
+The full title is *Beyond Perceptual Quality: Task-Driven Super-Resolution for Diagnostically Reliable Chest X-ray*, and the emphasis sits on the first half. Upscaling a chest radiograph until it looks sharp is not the same as making it more useful — a model tuned for perceptual metrics can invent texture that reads as fine detail while quietly losing the information a reader depends on. The approach treats the downstream diagnostic task as the objective rather than pixel or perceptual fidelity, and asks whether a reconstruction preserves what that task needs.
 
-<code>Real-time detection</code> <code>On-device inference</code> <code>Privacy-preserving</code> <code>Context scoring</code>
+<code>Super-resolution</code> <code>Medical imaging</code> <code>Computer vision</code> <code>Task-driven objective</code>
 
-<sub>Academic project for an Edge AI course, at proposal and prototype stage — described here as designed, not as a finished product.</sub>
+<!-- REPLACE-SUPERRES-URL — paste the repository link here -->
+<sub>Research work — not clinically validated and not intended for diagnostic use. Repository link pending.</sub>
 
 <div align="center">
 
