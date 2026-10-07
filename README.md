@@ -1,14 +1,3 @@
-<!--
-  ─────────────────────────────────────────────────────────────────────────────
-  Ashwanth Bingi — GitHub profile README
-  Repo must be named exactly: Ashwanthbingi/Ashwanthbingi
-  The assets/ folder must live in that same repo. See SETUP.md.
-
-  Links that need your real URLs. Search this file for REPLACE:
-    REPLACE-LINKEDIN   REPLACE-PORTFOLIO   REPLACE-RESUME   REPLACE-LEETCODE
-    REPLACE-RAFT-URL   REPLACE-SUPERRES-URL
-  ─────────────────────────────────────────────────────────────────────────────
--->
 
 <div align="center">
 
@@ -18,14 +7,14 @@
 
 <a href="https://github.com/Ashwanthbingi"><img src="https://img.shields.io/badge/GitHub-0A0B0D?style=for-the-badge&logo=github&logoColor=ECEDF0&labelColor=0A0B0D" alt="GitHub"></a>
 &nbsp;
-<!-- REPLACE-LINKEDIN -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A0B0D?style=for-the-badge&logo=linkedin&logoColor=ECEDF0&labelColor=0A0B0D" alt="LinkedIn"></a>
+
+<a href="https://www.linkedin.com/in/bingi-gnaneswanth-30565b354/"><img src="https://img.shields.io/badge/LinkedIn-0A0B0D?style=for-the-badge&logo=linkedin&logoColor=ECEDF0&labelColor=0A0B0D" alt="LinkedIn"></a>
 &nbsp;
-<!-- REPLACE-PORTFOLIO -->
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0A0B0D?style=for-the-badge&labelColor=0A0B0D" alt="Portfolio"></a>
+
+<a href="https://ashwanthbingi.github.io/gnaneswanth-bingi.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0B0D?style=for-the-badge&labelColor=0A0B0D" alt="Portfolio"></a>
 &nbsp;
-<!-- REPLACE-RESUME -->
-<a href="#"><img src="https://img.shields.io/badge/Résumé-0A0B0D?style=for-the-badge&labelColor=0A0B0D" alt="Résumé"></a>
+
+<a href="https://drive.google.com/file/d/1BF_SdsAC6hp52LohP6L_V1hWApMFDEuz/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-0A0B0D?style=for-the-badge&labelColor=0A0B0D" alt="Résumé"></a>
 
 <br><br>
 
@@ -85,7 +74,7 @@ A Raft consensus implementation in Go — the layer that keeps a cluster of node
 
 <code>Leader election</code> <code>Log replication</code> <code>Consensus safety</code> <code>Fault tolerance</code>
 
-<!-- REPLACE-RAFT-URL — paste the repository link here, e.g. [github.com/Ashwanthbingi/raft-harmony](https://github.com/Ashwanthbingi/raft-harmony) -->
+
 <sub>Repository link pending.</sub>
 
 <br>
@@ -106,7 +95,6 @@ The full title is *Beyond Perceptual Quality: Task-Driven Super-Resolution for D
 
 <code>Super-resolution</code> <code>Medical imaging</code> <code>Computer vision</code> <code>Task-driven objective</code>
 
-<!-- REPLACE-SUPERRES-URL — paste the repository link here -->
 <sub>Research work — not clinically validated and not intended for diagnostic use. Repository link pending.</sub>
 
 <div align="center">
@@ -130,7 +118,6 @@ The full title is *Beyond Perceptual Quality: Task-Driven Super-Resolution for D
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwanthbingi&bg_color=0A0B0D&color=8A8F98&line=E8E9ED&point=FFFFFF&area=true&area_color=8A8F98&hide_border=true&radius=18&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%">
 
 <br>
 
@@ -146,8 +133,8 @@ The full title is *Beyond Perceptual Quality: Task-Driven Super-Resolution for D
 
 <br><br>
 
-<!-- REPLACE-LEETCODE -->
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-0A0B0D?style=for-the-badge&logo=leetcode&logoColor=ECEDF0&labelColor=0A0B0D" alt="LeetCode profile"></a>
+
+<a href="https://leetcode.com/u/Bingi_Gnaneswanth/"><img src="https://img.shields.io/badge/LeetCode-0A0B0D?style=for-the-badge&logo=leetcode&logoColor=ECEDF0&labelColor=0A0B0D" alt="LeetCode profile"></a>
 
 <br><br>
 
